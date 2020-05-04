@@ -10,8 +10,7 @@ including threads that simulated the delivery of books, checking availability of
 Java Generics, Concurrency, and Synchronization.
 
 -Assignment 3: Implementation of a concurrent Java based server that supports both Reactor and Thread Per Client (TPC) models with
-a C++ client side. Simulating a social network including options of sending direct messages, posting messages, etc.
+a C++ client side. Simulating a social network, including options of sending direct messages, posting public messages, etc.
 
 -Assignment 4: Creating and managing a database with Python and SQL (specifically sqlite). We implemented a simulator for assigning
-classrooms to courses. A script was for creating the database (the database consisted of courses, students and classrooms), while another
-script was in charge of orchestrating the schedule of the courses. 
+classrooms to courses. One script was for creating the database (the database consisted of courses, students and classrooms), while another script was in charge of orchestrating the schedule of the courses. 
